@@ -32,6 +32,7 @@ Quantcast
 Hotjar
 Bing Universal Event Tracking
 LinkedIn Insights
+Google Conversion Linker
 ```
 
 ## Q4
@@ -47,4 +48,5 @@ What happens to a page https://domain.com/rikako on Google if...?
 The robots.txt tells web robots not to access the /rikako page. This page will not show up in internet search results, and web users won't be able to find it.
 ```
 
-
+## Q6
+https://nicoles-necktie.netlify.app/
